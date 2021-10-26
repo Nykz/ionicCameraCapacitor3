@@ -1,0 +1,1 @@
+# ionicCameraCapacitor3
