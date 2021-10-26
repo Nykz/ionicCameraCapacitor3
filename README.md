@@ -7,7 +7,7 @@ Learn to use Camera plugin using Cordova at https://youtu.be/LPzr-XG6eMg
 
 Learn to build Instagram CLone App: https://www.youtube.com/playlist?list=PLixvNT19uDK7tFopqRcm8iTPKNc69VGwl
 
-<img src="https://github.com/Nykz/ionicCameraCapacitor3/blob/main/THUMBNAIL.png" width="1000" height="400" />
+<img src="https://github.com/Nykz/ionicCameraCapacitor3/blob/main/THUMBNAIL.png" width="1000" height="600" />
 
 ### Steps to Setup this Instagram Clone App in your system
 
