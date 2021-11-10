@@ -9,7 +9,7 @@ Learn to build Instagram CLone App: https://www.youtube.com/playlist?list=PLixvN
 
 <img src="https://github.com/Nykz/ionicCameraCapacitor3/blob/main/THUMBNAIL.png" width="1000" height="600" />
 
-### Steps to Setup this Instagram Clone App in your system
+### Steps to Setup a new project
 
 1.Download the zipped project
 
